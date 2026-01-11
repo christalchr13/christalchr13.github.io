@@ -6,44 +6,73 @@ GitHub will automatically turn this Markdown file into a webpage.
 
 # Welcome to Chrystalleni's Corner
 
-Hi there! I'm Chrystalleni, a passionate **[Your Profession/Field, e.g., Software Developer, Data Scientist, Artist]** based in **[Your Location, e.g., Athens, Greece]**.
-
-I love building things, solving problems, and continuously learning. This is my personal space on the web where I share my projects and thoughts.
+Hi! I'm Chrystalleni, a Senior Software Engineer based in Nicosia, Cyprus, specializing in enterprise systems architecture and database management. I'm passionate about solving complex technical challenges, designing scalable solutions, and driving system modernization initiatives.
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Experience
 
-I have a background in **[Your Field of Study or Expertise]** and I'm particularly interested in:
+### **TSYS – Global Payments**
 
--   🌐 [Interest #1, e.g., Web Development]
--   🧠 [Interest #2, e.g., Artificial Intelligence]
--   🎨 [Interest #3, e.g., User Interface Design]
--   📊 [Interest #4, e.g., Data Visualization]
+#### Senior Software Engineer
+- Responsible for a major project converting the system to dual schema architecture to avoid downtime while patching
+- Understand and apply Liquibase standards, review developments from other engineers
+- Solve code issues, prepare documentation, collaborate with different teams
 
-When I'm not at my computer, you can find me [Your Hobby, e.g., hiking, reading, or exploring new cafes].
+#### Software Engineer II
+- Update existing procedures to become rerunnable
+- Develop automations in workbooks according to business requirements
+- Collaboration with both developers and business stakeholders
 
 ---
 
-## 🛠️ My Projects
+## 🎯 Core Competencies
 
-Here are a few things I've been working on.
+- **Database Architecture:** Schema design, Liquibase migration strategies, dual schema architecture
+- **System Design:** High-availability systems, database optimization, downtime-free patching
+- **Technical Leadership:** Code review, mentoring engineers, documentation
+- **Automation:** Workbook development, procedural automation, workflow optimization
+- **Problem Solving:** Complex system issues, architecture challenges, technical design
 
-### [Project Title 1]
-*A brief, one-sentence description of the project.*
--   **Technologies Used:** [e.g., Python, Flask, Docker]
--   **[Link to GitHub Repository &raquo;](https://github.com/chrystalleni/your-project-1)**
--   **[Live Demo &raquo;](https://chrystalleni.github.io/your-project-1/)** (Optional)
+---
 
-### [Project Title 2]
-*A brief, one-sentence description of the project.*
--   **Technologies Used:** [e.g., JavaScript, React, CSS]
--   **[Link to GitHub Repository &raquo;](https://github.com/chrystalleni/your-project-2)**
+## 🎓 Education
 
-### [Project Title 3]
-*A brief, one-sentence description of the project.*
--   **Technologies Used:** [e.g., Java, Spring Boot]
--   **[Link to GitHub Repository &raquo;](https://github.com/chrystalleni/your-project-3)**
+### **University of Edinburgh**
+**MSc Operational Research with Data Science**
+- Dissertation project in cooperation with Edinburgh Airport
+
+### **University of Cyprus**
+**BSc Mathematics and Statistics (Applied)**
+
+### **Aristotle University of Thessaloniki**
+**Erasmus+ Exchange Student**
+- Faculty of Mathematics
+
+---
+
+## 💡 Skills
+
+### Professional Skills
+- **Development** - Software engineering, system architecture, code optimization
+- **Data Analysis** - Statistical analysis, data-driven decision making
+- **Problem-Solving** - Complex technical challenges, system optimization
+- **Organization** - Project management, process improvement
+- **Team-work** - Cross-functional collaboration, team leadership
+- **Adaptability** - Learning new technologies, quick adoption
+- **Communication** - Documentation, stakeholder engagement, mentoring
+- **Time Management** - Deadline-driven delivery, prioritization
+
+### Programming Languages & Tools
+- **Languages:** Python • R • SQL
+- **Data Visualization:** PowerBI • Tableau
+- **Scientific Computing:** Matlab • Fortran
+- **Specialized Tools:** XpressIVE • QGIS
+- **Database:** Liquibase (Certificate)
+
+### Computer Skills
+- **Office & Documentation:** Word • PowerPoint • LaTeX
+- **Data & Automation:** Excel • VBA
 
 ---
 
@@ -51,8 +80,9 @@ Here are a few things I've been working on.
 
 I'm always open to connecting with new people and discussing interesting ideas. Feel free to reach out!
 
--   **GitHub**: [@chrystalleni](https://github.com/chrystalleni)
--   **LinkedIn**: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile/)
--   **Email**: [your.email@example.com](mailto:your.email@example.com)
+-   **GitHub**: [@chrystalleni](https://github.com/christalchr13)
+-   **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/chrystalleni-christodoulou/)
+-   **Email**: [christal.chr13@gmail.com](mailto:christal.chr13@gmail.com)
+-   **Location**: Nicosia, Cyprus
 
 Thanks for stopping by!
